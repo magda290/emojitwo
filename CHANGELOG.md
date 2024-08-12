@@ -20,11 +20,11 @@ Added emojis
 
 ### Unicode 10.0
 
-+ [ ] 
++ [x] [Added 236 Emojis]
 
 ### Emoji 5.0
 
-+ [ ] 
++ [x] [Added 236 Emojis]
 
 ### Unicode 11.0
 
